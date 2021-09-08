@@ -4,7 +4,7 @@
 
 # Sobre a divisão
 
-A aplicação foi dividida em dois microsserviços
+A aplicação possui 3 divisões:
 
 ## micro-email
 
@@ -12,7 +12,7 @@ Microsserviço que recebe parâmetros via POST e envia os emails.
 
 - Rodar na porta 8030
 
-## formulario--email
+## formulario-email
 
 Aplicação que contém um formulário para preenchimento e envio dos parâmetros
 
