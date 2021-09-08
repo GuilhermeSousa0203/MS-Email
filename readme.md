@@ -1,6 +1,6 @@
 # Sobre o Repositório
 
-É a implementação de um microsserviço para envio de emails. A integração é feito por meio de filas e mensageria, usando RabbitMQ.
+É a implementação de um microsserviço para envio de emails. A integração é feita por meio de filas e mensageria, usando RabbitMQ.
 
 # Sobre a divisão
 
